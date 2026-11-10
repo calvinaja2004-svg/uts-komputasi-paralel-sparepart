@@ -3,7 +3,7 @@ Video presentasi (YouTube, Unlisted): https://youtu.be/GANTI_DENGAN_LINK_VIDEO
 # API Toko Suku Cadang Motor
 
 UTS Komputasi Paralel dan Terdistribusi (Ganjil 2026/2027), Universitas Muhammadiyah Pontianak.
-Nama: **CALVIN ANJAS PUTRA** | NIM: **231220101**
+Nama: **CALVIN ANJAS PUTRA** | NIM: **231220101** | Kelas: **31 Teknik Informatika**
 
 REST API suku cadang motor berbasis **FastAPI + aiosqlite (SQLite)**. Resource utama: `products`
 (suku cadang, ada kolom `stok`). Resource transaksi: `transactions` (pembelian, diproses di
